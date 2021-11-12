@@ -1,0 +1,7 @@
+#Tue Nov 09 21:32:18 IRST 2021
+base.0=C\:\\Users\\Danial\\Desktop\\badi\\openCVLibrary310\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.1=classes_0.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Danial\\Desktop\\badi\\openCVLibrary310\\build\\intermediates\\dex\\debugAndroidTest\\mergeLibDexDebugAndroidTest\\classes_0.dex
